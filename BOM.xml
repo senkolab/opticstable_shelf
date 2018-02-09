@@ -73,7 +73,7 @@
           <property name="Visible">true</property>
           <property name="ImageIndex">-1</property>
           <property name="ImageAlignment">Near</property>
-          <property name="Width">222</property>
+          <property name="Width">251</property>
           <property name="SortOrder">None</property>
           <property name="SortIndex">-1</property>
           <property name="SortMode">Custom</property>
